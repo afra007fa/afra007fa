@@ -31,6 +31,15 @@ An intelligent learning assistant that helps users understand programming, artif
 ### ✈️ AI Trip Travel Agent
 An AI-powered travel assistant that creates personalized travel itineraries, recommends destinations, and simplifies travel planning based on user preferences.
 
+### 🛡️ [ScamShield](https://github.com/afra007fa/scamshield): AI Scam Message Detector
+
+Paste a suspicious SMS or WhatsApp message and ScamShield tells you if it is a scam, why, and what to do.
+
+People in India lose money to fake KYC, UPI refund, parcel and lottery messages, and most can't tell a scam from a real message in the moment. I built a working prototype that combines a TF-IDF and Logistic Regression classifier (trained on public SMS datasets plus Indian scam messages I wrote), pattern checks for links, phone numbers and pressure words, and Gemini for plain-language advice. It scores 97% on my test set. My Indian data is small, so it can miss new scam styles.
+
+**Tech:** Python · scikit-learn · Streamlit · Gemini API · Git
+
+🔗 [Live demo](https://scamshield-india.streamlit.app/) · 💻 [Source code](https://github.com/afra007fa/scamshield)
 ---
 
 ## 🌱 Currently Learning
