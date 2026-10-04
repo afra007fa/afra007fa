@@ -16,6 +16,7 @@ I am passionate about turning ideas into practical solutions through AI and mach
 - Git
 - GitHub
 - Machine Learning
+- Data Analytics
 - Artificial Intelligence
 
 ---
